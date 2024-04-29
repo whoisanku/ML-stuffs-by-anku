@@ -1,0 +1,11 @@
+# General
+*.log
+*.out
+*.pid
+
+# Python-specific
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
